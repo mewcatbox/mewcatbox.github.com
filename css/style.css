@@ -1,0 +1,71 @@
+.parallax-container {
+  height: 300px;
+}
+
+.partners .card {
+    min-height: 220px;
+}
+
+.partners .card-image {
+    text-align: center;
+}
+
+.partners .card-image img {
+    display: inline-block;
+    margin-top: 15px;
+    max-height: 64px;
+    width: auto;
+    max-width: 100%;
+}
+
+.brand-logo {
+    height: 100%
+}
+
+.brand-logo img {
+    max-height: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.small-logo img {
+    max-width: 100%;
+}
+
+.small-logo-pistol {
+    padding-top: 50px;
+}
+.small-logo-pistol img {
+    max-width: 100%;
+}
+
+.btn-contact:hover{
+    background-color: #f1f1f1 !important;
+}
+
+.section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer-icon-wrapper {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.footer-icon-wrapper i {
+    margin-right: 10px;
+}
+    
+.galllery {
+    text-align: center;
+}
+
+.gallery-item {
+    padding: 3px;
+    display: inline-block;
+}
+
+.gallery-item img {
+    max-height: 125px;
+}
